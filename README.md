@@ -5,6 +5,7 @@ parâmetro.
 Todas as dependências estão no pom.xml
 
 Métodos: 
+
 /recipes/searchAll?recipe={String}
 Método: GET
 Descrição: Retorna todas as receitas encontradas para String passada no argumento.
